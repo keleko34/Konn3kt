@@ -1,4 +1,6 @@
 # Konnekt
+
+[![Join the chat at https://gitter.im/konnektjs/Lobby](https://badges.gitter.im/konnektjs/Lobby.svg)](https://gitter.im/konnektjs/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 > Multi layer component based binding framework
 
 [![NPM version][npm-image]][npm-url]
